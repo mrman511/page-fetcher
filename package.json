@@ -1,0 +1,22 @@
+{
+  "name": "page-fetcher",
+  "version": "1.0.0",
+  "description": "\"fetch internet parge and write to file\"",
+  "main": "fetcher.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrman511/page-fetcher.git"
+  },
+  "author": "Paul Bodner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrman511/page-fetcher/issues"
+  },
+  "homepage": "https://github.com/mrman511/page-fetcher#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
